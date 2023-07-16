@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **python,Javascript,PHP**
+- 🌱 I’m currently learning **python,Javascript,PHP,Git**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArmanForouharfard](https://github.com/ArmanForouharfard)
 
