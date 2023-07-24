@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArmanForouharfard](https://github.com/ArmanForouharfard)
 
-- 💬 Ask me about **Html5,CSS3,Python,Bootstrap4**
+- 💬 Ask me about **Html5,CSS3,Python,Bootstrap**
 
 - 📫 How to reach me **arman.forouharfard@gmail.com**
 
