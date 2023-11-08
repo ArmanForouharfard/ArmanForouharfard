@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arman forouharfard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arman forouharfard" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/arman forouharfard](https://www.linkedin.com/in/arman-forouharfard-a3a360271/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arman forouharfard" height="30" width="40" /></a>
 <a href="https://instagram.com/arman.2002namra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arman.2002namra" height="30" width="40" /></a>
 </p>
 
