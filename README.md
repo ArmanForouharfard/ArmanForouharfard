@@ -1,81 +1,31 @@
 <h1 align="center">Hi 👋, I'm Arman Forouharfard</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArmanForouharfard&color=blue" alt="profile views" />
-  <a href="https://wakatime.com/@ArmanForouharfard">
-    <img src="https://wakatime.com/badge/user/YOUR-WAKATIME-ID.svg" alt="Total Time Coded" />
-  </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanforouharfard&label=Profile%20views&color=0e75b6&style=flat" alt="armanforouharfard" /> </p>
 
-<!-- Optional: Only show trophies if you have them -->
-<!--
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ArmanForouharfard&theme=onedark&no-frame=true&row=1&column=7" alt="armanforouharfard" />
-  </a>
-</p>
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanforouharfard" alt="armanforouharfard" /></a> </p>
 
-## 📌 About Me
+- 🔭 I’m currently working on **Basic Frontend Projects**
 
-- 🔭 I'm currently working on **Basic Frontend Projects** to build my portfolio
-- 🌱 I'm currently learning **JavaScript, Python, and WordPress**
+- 🌱 I’m currently learning **Javascript,Python,Wordpress**
+
 - 👨‍💻 All of my projects are available at [https://github.com/ArmanForouharfard](https://github.com/ArmanForouharfard)
-- 💬 Ask me about **HTML, CSS, JavaScript, Python basics**
-- 📫 How to reach me: **arman.forouharfard@gmail.com**
-- ⚡ Fun fact: **I love solving coding challenges and creating visual effects like parallax scrolling!**
 
-## 🛠️ Technologies & Tools
+- 💬 Ask me about **Html,CSS,Javascript,Python**
 
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+- 📫 How to reach me **arman.forouharfard@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arman-forouharfard-a3a360271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arman-forouharfard-a3a360271" height="30" width="40" /></a>
+<a href="https://instagram.com/arman.2002namra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arman.2002namra" height="30" width="40" /></a>
 </p>
 
-### Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Tools & Others
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanforouharfard&show_icons=true&locale=en&layout=compact" alt="armanforouharfard" /></p>
 
-## 📊 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanforouharfard&show_icons=true&locale=en" alt="armanforouharfard" /></p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArmanForouharfard&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanForouharfard&layout=compact&theme=radical&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanForouharfard&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/arman-forouharfard-a3a360271" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/arman.2002namra" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:arman.forouharfard@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section updates automatically if you set up GitHub Actions -->
-<!--END_SECTION:activity-->
